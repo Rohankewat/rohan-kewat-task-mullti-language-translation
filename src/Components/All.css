@@ -1,0 +1,9 @@
+.container-1 {
+    position: relative;
+    color: white;
+    top: 15px;
+    background-color: tomato;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 700px;
+    height: 300px;
+}
